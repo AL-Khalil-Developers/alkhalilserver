@@ -2,14 +2,14 @@
     "apps":
 
      [{
-       "app_title": "App Name (Dialog)",
-       "app_desc": "Your App's description",
-       "app_icon": "https:// URL to Icon",
-       "app_header_image": "https:// URL to Header Image",
-       "app_uri": "http:// URL or Package Name - com.package.name",
-       "app_rating": "4.5",
-       "app_cta_text": "Install",
-       "app_price": "Free",
+     "app_title": "Call of Duty®: Mobile",
+     "app_desc": "Official CALL OF DUTY® designed exclusively for mobile phones. Play iconic multiplayer maps and modes anytime, anywhere. 100 player Battle Royale battleground? Fast 5v5 team deathmatch? Sniper vs sniper battle? Activision’s free-to-play CALL OF DUTY®: MOBILE has it all.",
+     "app_icon": "https://lh3.googleusercontent.com/6lEEhm2WZojAbZ1uqRJb-KEmT24xydDd5I0QjABtlNOeDr9NrNxztXe67AArHUFuqSI",
+     "app_header_image": "https://lh3.googleusercontent.com/5B3iaIAgE1FhwZIA4MMusydzWmlN3BTAnV99FTfyjDK-X72NMbPm8R3kc8STR7Ac8UU=w720-h310-rw",
+     "app_uri": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter",
+     "app_rating": "4.5",
+     "app_cta_text": "Install",
+     "app_price": "Free",
        "app_adType": "dialog"
      },
 
